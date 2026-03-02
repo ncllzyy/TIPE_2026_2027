@@ -12,6 +12,7 @@
 >   **Si le mobile est un petit robot motorisé, quelle trajectoire permet de dépenser le moins de batterie possible pour atteindre l'arrivée en un temps donné ?** 
 
 **JUSTIFICATION**
+
 Ce projet lie la mécanique classique à l'optimisation numérique autour de trois axes :
      
  - Optimisation : Faire l'analogie entre la courbe la plus rapide (courbe de brachistochrone) et l'efficacité d'un algorithme de descente.
