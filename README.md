@@ -14,11 +14,11 @@
 **JUSTIFICATION**
 Ce projet lie la mécanique classique à l'optimisation numérique autour de trois axes :
      
-     Optimisation : Faire l'analogie entre la courbe la plus rapide (brachistochrone) et l'efficacité d'un algorithme de descente.
+ - Optimisation : Faire l'analogie entre la courbe la plus rapide (courbe de brachistochrone) et l'efficacité d'un algorithme de descente.
 
-     Efficacité :  Étudier l'impact des frottements réels sur la conservation de l'énergie.
+ - Efficacité :  Étudier l'impact des frottements réels sur la conservation de l'énergie.
 
-     Sobriété : Application à un robot motorisé pour minimiser la consommation de batterie sous contrainte de temps.
+ - Sobriété : Application à un robot motorisé pour minimiser la consommation de batterie sous contrainte de temps.
 
 L'enjeu : Démontrer qu'une trajectoire mathématiquement optimisée est la clé de la sobriété énergétique et numérique.
 
