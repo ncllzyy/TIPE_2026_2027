@@ -11,25 +11,23 @@
 
 >   **Si le mobile est un petit robot motorisé, quelle trajectoire permet de dépenser le moins de batterie possible pour atteindre l'arrivée en un temps donné ?** 
 
-## 🛠️ Contenu du Dépôt
-L'architecture de ce dépôt est organisée comme suit :
+**JUSTIFICATION**
+Ce projet lie la mécanique classique à l'optimisation numérique autour de trois axes :
+     
+     Optimisation : Faire l'analogie entre la courbe la plus rapide (brachistochrone) et l'efficacité d'un algorithme de descente.
 
-* `/Theorie` : Démonstration de l'équation d'Euler-Lagrange appliquée à la fonctionnelle du temps.
-* `/Simulation` : Scripts Python permettant de modéliser la descente sur différentes courbes (droite, arc de cercle, cycloïde).
-* `/Optimisation_Numerique` : Recherche de la courbe optimale par méthode de descente de gradient ou algorithmes génétiques en présence de frottements.
-* `/Data` : Résultats des mesures expérimentales (acquisition vidéo).
+     Efficacité :  Étudier l'impact des frottements réels sur la conservation de l'énergie.
 
-## 🧮 Modélisation Mathématique
-Le cœur du projet repose sur la minimisation de la fonctionnelle de temps $T[y]$ :
+     Sobriété : Application à un robot motorisé pour minimiser la consommation de batterie sous contrainte de temps.
 
-$$T[y] = \int_{x_A}^{x_B} \frac{\sqrt{1 + y'(x)^2}}{\sqrt{2gy(x)}} dx$$
+L'enjeu : Démontrer qu'une trajectoire mathématiquement optimisée est la clé de la sobriété énergétique et numérique.
 
-L'application de l'équation d'**Euler-Lagrange** permet de montrer que la solution est une **cycloïde**. 
-Mon étude compare cette solution idéale avec des modèles incluant :
-1.  Le moment d'inertie d'une bille réelle ($E_c$ de rotation).
-2.  Les frottements fluides et solides (perte d'efficacité).
+## CONTENU DU DEPÔT
 
-## 🚀 Utilisation des scripts
-Pour lancer la comparaison des trajectoires :
-```bash
-python Simulation/compare_curves.py
+
+
+
+
+
+
+
