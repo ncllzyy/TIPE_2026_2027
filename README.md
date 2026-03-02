@@ -1,16 +1,9 @@
 # TIPE_2026_2027
-## THEME : Sobriété, Efficacité, Optimisation 
-![Status](https://img.shields.io/badge/TIPE-2027-blue)
-![Matière](https://img.shields.io/badge/Matière-Mathématiques%20%2F%20Physique-red)
-![Outils](https://img.shields.io/badge/Outils-Python%20%2F%20Calcul%20Variationnel-green)
+## THEME : Sobriété, Efficacité, Optimisation
 
-## Présentation du Projet
-Ce projet de TIPE s'intéresse à la **Brachistochrone** (du grec *brakhistos* le plus court, et *chronos* le temps), la courbe entre deux points sur laquelle un mobile glissant sans frottement atteint le point bas le plus rapidement possible. 
-
-Dans le cadre du thème **Sobriété, Efficacité, Optimisation**, ce travail ne se limite pas à la résolution historique de Bernoulli. Il explore comment l'**optimisation géométrique** permet d'atteindre une **efficacité de transfert énergétique** maximale, tout en étudiant l'impact des contraintes réelles (frottements) sur la **sobriété** du système.
-
-## ❓ Problématique
-> **Comment le calcul des variations permet-il de définir une trajectoire minimisant le temps de transfert, et dans quelle mesure l'introduction de frottements modifie-t-elle l'efficacité de cette solution optimale ?**
+## PROBLEMATIQUE
+> **Comment optimiser la vitesse de convergence d'un algorithme pour réduire le coût de calcul (sobriété numérique) ?**
+>   
 
 ## 🛠️ Contenu du Dépôt
 L'architecture de ce dépôt est organisée comme suit :
