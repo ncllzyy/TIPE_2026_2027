@@ -3,7 +3,12 @@
 
 ## PROBLEMATIQUE
 > **Comment optimiser la vitesse de convergence d'un algorithme pour réduire le coût de calcul (sobriété numérique) ?**
->   
+      **SOUS PROBLEMATIQUES**
+>   **Comment la forme de la pente optimise-t-elle la conversion de l'énergie potentielle en énergie cinétique ?**
+
+>   **Si l'on ajoute des frottements (modèle réel), quelle est la courbe qui reste la plus "efficace" pour conserver la vitesse ?**
+
+>   **Si le mobile est un petit robot motorisé, quelle trajectoire permet de dépenser le moins de batterie possible pour atteindre l'arrivée en un temps donné ?** 
 
 ## 🛠️ Contenu du Dépôt
 L'architecture de ce dépôt est organisée comme suit :
