@@ -6,13 +6,13 @@
 
 ## SOUS‑PROBLÉMATIQUES  
 
-> **(Q1 – Modèle idéal)**  
+> **Modèle idéal**  
 > Comment la forme d’une pente (ligne droite, arc de cercle, cycloïde…) influe‑t‑elle sur le temps de conversion de l’énergie potentielle en énergie cinétique entre deux points donnés (problème de brachistochrone) ?
 
-> **(Q2 – Modèle réel avec frottements)**  
+> **Modèle réel avec frottements**  
 > Lorsque l’on ajoute des frottements (sol, air), quelle trajectoire reste la plus “efficace” pour atteindre un point donné : la courbe théorique de descente la plus rapide, une trajectoire plus courte, ou une autre forme ?
 
-> **(Q3 – Robot motorisé et algorithmes)**  
+> **Robot motorisé et algorithmes**  
 > Si le mobile est un petit robot motorisé, quelle trajectoire permet de minimiser la consommation de batterie pour atteindre l’arrivée en un temps imposé, et comment cette recherche de trajectoire optimale se compare‑t‑elle aux méthodes de descente de gradient (choix du pas, vitesse de convergence, coût de calcul) ?
 
 ## JUSTIFICATION  
