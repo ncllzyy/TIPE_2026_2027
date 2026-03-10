@@ -12,3 +12,4 @@
 **Notion de Gradient**
 > https://docscpge.wordpress.com/wp-content/uploads/2017/02/physique_rc3a9sumc3a9_du_cours_en_fiches_mpsi-mp.pdf
 > https://youtu.be/x0zhe3thgB8?si=sgxRH9PxxDiX1H2r
+> https://perso.telecom-paristech.fr/ofercoq/hdrFercoq.pdf?utm_source=perplexity
