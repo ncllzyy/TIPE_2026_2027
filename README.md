@@ -28,7 +28,7 @@ L’enjeu est de montrer qu’un choix de trajectoire mathématiquement optimis�
 ## CONTENU DU DEPÔT
 
 - README.md
-- Bibliographie
+- Bibliographie.md
 
 
 
